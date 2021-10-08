@@ -38,6 +38,4 @@ And email me [at here](mailto:2000onetechguy@gmail.com)
 
 <hr>
 
-<div id="JVWM">
-  <iframe src="https://mxp2095onetechguy.github.io/JVWM/">You don't support Iframes</iframe>
-</div>
+[JVWM?](https://mxp2095onetechguy.github.io/JVWM/)
