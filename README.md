@@ -6,6 +6,8 @@ These are my top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxp2095onetechguy)
 
+And you know, I don't usually commit to other's code, but I like to show mine.
+
 <!--
 **MXP2095onetechguy/mxp2095onetechguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
