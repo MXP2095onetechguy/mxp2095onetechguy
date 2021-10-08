@@ -38,7 +38,6 @@ And email me [at here](mailto:2000onetechguy@gmail.com)
 
 <hr>
 
-<div>
-  <canvas id="Game" width="500" height="500">
-    <script>alert(1);</script>
+<div id="JVWM">
+  <iframe src="https://mxp2095onetechguy.github.io/JVWM/">You don't support Iframes</iframe>
 </div>
