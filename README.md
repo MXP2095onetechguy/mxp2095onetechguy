@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### fax
+
 <hr>
 I like c# and c++ you know
 
@@ -26,5 +27,6 @@ Here are some ideas to get you started:
 -->
 
 ##### links
+
 <hr>
 Visit my [Website](https://mxp2095onetechguy.github.io)
