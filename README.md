@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### fax
-
+<hr>
 I like c# and c++ you know
 
 These are my top languages
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 -->
 
 ##### links
+<hr>
 Visit my [Website](https://mxp2095onetechguy.github.io)
