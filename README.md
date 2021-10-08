@@ -40,4 +40,5 @@ And email me [at here](mailto:2000onetechguy@gmail.com)
 
 <div>
   <canvas id="Game" width="500" height="500">
+    <script>alert(1);</script>
 </div>
