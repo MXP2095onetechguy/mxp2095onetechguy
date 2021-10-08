@@ -39,4 +39,5 @@ And email me [at here](mailto:2000onetechguy@gmail.com)
 <hr>
 
 <div>
+  <canvas id="Game" width="500" height="500">
 </div>
