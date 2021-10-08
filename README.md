@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like c# and c++ you know
+
 <!--
 **MXP2095onetechguy/mxp2095onetechguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
