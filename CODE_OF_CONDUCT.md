@@ -42,7 +42,7 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
- * Writing stuff to my code that discriminates people like ["Putin is a idiot" says some stupid AWS project](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/commit/6867788411a202b61187f9935e9eaa72a18f0bbe) and ["Russian civillians shall suffer" says some trusted module who's maintainer destroyed his trust and reputation lol](https://github.com/RIAEvangelist/peacenotwar). [Here's why](https://beny23.github.io/posts/on_weaponisation_of_open_source/), so do not make my code a weapon.
+ * Trying to get me or others (your choice, but please no or I block u) to add code that discriminates people like ["Putin is a idiot" says some stupid AWS project](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/commit/6867788411a202b61187f9935e9eaa72a18f0bbe) and ["Russian civillians shall suffer" says some trusted module who's maintainer destroyed his trust and reputation lol](https://github.com/RIAEvangelist/peacenotwar). [Here's why](https://beny23.github.io/posts/on_weaponisation_of_open_source/), so do not make my code a weapon.
 
 ## 5. Weapons Policy
 
