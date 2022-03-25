@@ -40,4 +40,4 @@ And email me [at here](mailto:2000onetechguy@gmail.com)
 
 <hr>
 
-[JVWM?](https://mxp2095onetechguy.github.io/JVWM/)
+<!-- [JVWM?](https://mxp2095onetechguy.github.io/JVWM/) -->
