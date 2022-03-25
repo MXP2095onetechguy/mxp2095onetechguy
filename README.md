@@ -11,6 +11,8 @@ These are my top languages
 
 And you know, I don't usually commit to other's code, but I like to show mine.
 
+In war, especially the ukraine war, some of your idiotic code has declared peace an enemy of mine (and no, you are never going to put a code that makes things bad or give a bad reputation to russia, I will not accept that code")
+
 <!--
 **MXP2095onetechguy/mxp2095onetechguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
