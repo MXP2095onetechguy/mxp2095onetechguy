@@ -1,7 +1,7 @@
 <!-- Contributing template -->
 # Contributing to {project-name}
 
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+We love your input! We want to make contributing to this [project]({your-github-repository-url-ok}) as easy and transparent as possible, whether it's:
 
 - Reporting a bug
 - Discussing the current state of the code
@@ -24,10 +24,10 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 5. Make sure your code lints.
 6. Issue that pull request!
 
-## Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+## Any contributions you make will be under the MIT Software License if not specified (No copyleft though)
+In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project if your license choice is not specified. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues]({your-github-repository-url-ok})
+## Report bugs using Github's [issues]({your-github-repository-url-for-issues-ok})
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
